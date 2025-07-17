@@ -13,7 +13,6 @@ I am a dedicated and skilled professional with a strong background in 💻 DevOp
 - Expertise in crafting robust CI/CD pipelines.
 - Proficiency in tools like Jenkins, CI/CD, Ansible, Docker, and Kubernetes.
 - Know IaC (Infrastructure as Code) with Terraform and AWS CloudFormation.
-- Strong scripting skills in Shell , Python, and more.
 - Knowledge of monitoring and logging with tools like Prometheus and Grafana.
 
 
